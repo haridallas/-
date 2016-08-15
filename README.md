@@ -1,4 +1,5 @@
 # -
+తెలుగు నేర్చుకోండి  
  An android app to learn telugu language. mainly meant for  second  ,third generation  NRI telugu origin people who want to speak telugu
  After seeing  and  using  Duolingo for Spanish ,the thought  of  building  something similar  for telugu on android came to me  
  
